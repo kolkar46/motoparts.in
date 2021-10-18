@@ -1,0 +1,102 @@
+ .nav-link{
+   font-size: 20px;
+
+ }
+
+   #title{
+  background-color: #9A9483;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+/*--.navb bg-dark navbar-expand-lg navbar-darknavbar fixed-top navbar-light bg-light{--*/
+
+
+h1{
+  font-style:" Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+h2{
+  font-style:" Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.dwnld{
+   margin: 5% 3% 5% 0;
+}
+.apple{
+  height: 30px;
+
+}
+.mobile{
+  height: 700px;
+
+}
+.heart{
+  height: 230px;
+}
+.checkcircle{
+  height: 230px;
+}
+.bullseye{
+  height: 230px;
+}
+
+
+.row{
+  padding-top: 70px;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+
+  background-color: grey;
+  color: white;
+
+}
+.testimonial{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+#press{
+  background-color: grey;
+  text-align:center;
+  padding-bottom: 50px;
+
+}
+.press{
+  width:10%;
+  margin:20px 20px 50px;
+}
+.shop{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.card-img-top{
+  margin-left: 80px;
+
+}
+.pricing{
+  text-align: center;
+
+}
+#pricing{
+  padding :100px;
+  text-align: center;
+}
+.conclusion{
+  background-color: #9A9483;
+  padding: 50px 0 0 70px;
+}
+.conclude{
+  text-decoration: none;
+  color: white;
+
+}
